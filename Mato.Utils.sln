@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mato.Utils", "Mato.Utils\Mato.Utils.csproj", "{5351DD4F-5218-4E3D-99FC-FCD485696DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5351DD4F-5218-4E3D-99FC-FCD485696DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5351DD4F-5218-4E3D-99FC-FCD485696DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5351DD4F-5218-4E3D-99FC-FCD485696DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5351DD4F-5218-4E3D-99FC-FCD485696DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE187A6D-EBDA-4949-B980-F220F56C025F}
+	EndGlobalSection
+EndGlobal
